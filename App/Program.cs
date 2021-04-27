@@ -15,6 +15,8 @@ namespace App
         {
             Console.WriteLine(isEven(2));
             Console.WriteLine(isEven(3));
+            Console.WriteLine(isEven(4));
+            Console.WriteLine(isEven(5));
             Console.ReadKey();
         }
     }
