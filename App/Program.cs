@@ -3,7 +3,7 @@ using System;
 
 namespace App
 {
-    internal class Program
+    public class Program
     {
 
         private static bool isEven(int inputNumber)
