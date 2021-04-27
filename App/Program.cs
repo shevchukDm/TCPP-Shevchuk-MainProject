@@ -6,7 +6,7 @@ namespace App
     class Program
     {
 
-        static bool isEven(int inputNumber)
+        private static bool isEven(int inputNumber)
         {
             return inputNumber % 2 == 0;
         }
